@@ -1,15 +1,21 @@
 
 <div align="center">
 <h1 align="center">Hi, I'm Marta 👋🏻 </h1>
+  <img src="https://media.giphy.com/media/kUiVangO4Yf8Q/giphy.gif?cid=ecf05e47zxe8fzzumbuc3d4faontoi2i2a59v4tvihnlo8vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://media.giphy.com/media/5C472t1RGNuq4/giphy.gif?cid=ecf05e47zxe8fzzumbuc3d4faontoi2i2a59v4tvihnlo8vf&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
-
-- I’m currently learning JavaScript
--  📫 How to reach me: marta.mohedano@gmail.com
-- Art is my passion
+## About me:
+- I’m currently studying 
+- How to reach me: marta.mohedano@gmail.com  📫
+- Art is my passion 🎨
 - Snowboarding lover  ❄️ 🏂 ❄️
 - Bookworm 📚
+
+---
+
+## Languages & Tools
+
+
 <!--
 **mmohedano/mmohedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
