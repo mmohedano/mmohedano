@@ -1,9 +1,11 @@
 ### Hi, I'm Marta 👋🏻
-<!--
-**mmohedano/mmohedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/5C472t1RGNuq4/giphy.gif?cid=ecf05e478udbm56t4siu4hptgn3t0dmp3sb5l3oa6lya8slo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=200"/>
 </div>
+<!--
+**mmohedano/mmohedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
