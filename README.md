@@ -9,7 +9,7 @@
 ---
 
 ## About me:
-- I’m currently studying 
+- I’m currently studying at 4Geeks Academy 
 - How to reach me: marta.mohedano@gmail.com  📫
 - Art is my passion 🎨
 - Snowboarding lover  ❄️ 🏂 ❄️
