@@ -1,9 +1,9 @@
-### Hi, I'm Marta 👋🏻
-<!--
-<div id="header" align="center">
-[infinity] (https://media.giphy.com/media/5C472t1RGNuq4/giphy.gif?cid=ecf05e478udbm56t4siu4hptgn3t0dmp3sb5l3oa6lya8slo&ep=v1_gifs_search&rid=giphy.gif) 
+<div>
+<img src="https://media.giphy.com/media/5C472t1RGNuq4/giphy.gif?cid=ecf05e47zxe8fzzumbuc3d4faontoi2i2a59v4tvihnlo8vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
--->
+
+### Hi, I'm Marta 👋🏻
+
 - I’m currently learning JavaScript
 -  📫 How to reach me: marta.mohedano@gmail.com
 - Art is my passion
