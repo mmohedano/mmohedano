@@ -1,5 +1,4 @@
-### Hi 👋, I'm Marta
-
+### Hi, I'm Marta 👋🏻
 <!--
 **mmohedano/mmohedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m currently learning JavaScript
+-  📫 How to reach me: marta.mohedano@gmail.com
+- Art is my passion
+- Snowboarding lover  ❄️ 🏂 ❄️
+- Bookworm 📚
