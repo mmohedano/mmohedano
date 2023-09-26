@@ -1,6 +1,9 @@
-### Hi, I'm Marta 👋🏻 
+
+
 <div align="center">
+  <h1>Hi, I'm Marta 👋🏻 </h1>
   <img src="https://media.giphy.com/media/kUiVangO4Yf8Q/giphy.gif?cid=ecf05e47zxe8fzzumbuc3d4faontoi2i2a59v4tvihnlo8vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <h2>To infinity and beyond</h2>
 </div>
 
 ---
