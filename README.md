@@ -1,8 +1,14 @@
 ### Hi, I'm Marta 👋🏻
-
+<!--
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/5C472t1RGNuq4/giphy.gif?cid=ecf05e478udbm56t4siu4hptgn3t0dmp3sb5l3oa6lya8slo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=200"/>
+[infinity] (https://media.giphy.com/media/5C472t1RGNuq4/giphy.gif?cid=ecf05e478udbm56t4siu4hptgn3t0dmp3sb5l3oa6lya8slo&ep=v1_gifs_search&rid=giphy.gif) 
 </div>
+-->
+- I’m currently learning JavaScript
+-  📫 How to reach me: marta.mohedano@gmail.com
+- Art is my passion
+- Snowboarding lover  ❄️ 🏂 ❄️
+- Bookworm 📚
 <!--
 **mmohedano/mmohedano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m currently learning JavaScript
--  📫 How to reach me: marta.mohedano@gmail.com
-- Art is my passion
-- Snowboarding lover  ❄️ 🏂 ❄️
-- Bookworm 📚
